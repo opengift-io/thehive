@@ -1,7 +1,7 @@
 
 ## What is The Hive?
 
-The hive is a place where the developers can easily find or create the new open-source software together.
+The hive is a concept according to which developers are able not to do the things was done before by others.
 
 ## How it works? 
 
@@ -9,6 +9,9 @@ Developers of different organizations anonymously see
 how many people want the code similar with they are writing right now. 
 Then they send parts of this code to open source frameworks 
 they already use. 
+
+Also here you can find an open source solution for you faster
+ and easlier than if you use google. 
 
 ## Opportunities for companies
 
