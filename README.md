@@ -19,10 +19,17 @@ Reach your global goals much faster avoiding boring tasks that someone already d
 
 ## Opportunities for developers
 
-Working with The Hive you gain unique points of experience that represent your professional skills better than any documents and achievements. It can easily prove your real working capability for anyone.
+Working with The Hive you gain unique points of 
+experience that represent your professional skills 
+better than any documents and achievements. 
+It can easily prove your real working capability for anyone. 
 
 ## How can I help the community
 
 The hive is a range of open source tools making software development faster. Get additional points contributing to any of them.
 
 [Join The Hive](mailto:info@opengift.io)
+
+## For contributors
+
+See [current tasks]()
