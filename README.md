@@ -5,7 +5,10 @@ The hive is a place where the developers can easily find or create the new open-
 
 ## How it works? 
 
-Developers of different organizations anonymously see how many people want the same code they are writing right now. Then they send parts of this code to open source frameworks they already use. 
+Developers of different organizations anonymously see 
+how many people want the code similar with they are writing right now. 
+Then they send parts of this code to open source frameworks 
+they already use. 
 
 ## Opportunities for companies
 
